@@ -1,4 +1,4 @@
-//Karishma Mirpuri - 620088250 - INFO2180 - Project 2 - JavaScript Document
+//Yohan Brown - 620086202 - INFO2180 - Project 2 - JavaScript Document
 //Extra Feature Completed: Multiple Backgrounds
 //checkMove, function to check if a given square can move not working
 
@@ -113,7 +113,7 @@ $(document).ready(function() {
 		
 		if (selector == "Flowers"){
 			for (var i = 0; i < $puzzlePieces.length; i++){
-				$puzzlePieces[i].style.background = 'url("http://g02.a.alicdn.com/kf/HTB1UGuWIFXXXXXpaXXXq6xXFXXXA/&Ouml;zelle%C5%9Ftirmek-duvar-ka%C4%9F%C4%B1d%C4%B1-papel-de-parede-hd-boyama-g&uuml;zel-&ccedil;i&ccedil;ekler-3d-duvar-ka%C4%9F%C4%B1d%C4%B1-3d-duvar-ka%C4%9F%C4%B1d%C4%B1.jpg")';
+				$puzzlePieces[i].style.background = 'url("http://g02.a.alicdn.com/kf/HTB1UGuWIFXXXXXpaXXXq6xXFXXXA/Özelle%C5%9Ftirmek-duvar-ka%C4%9F%C4%B1d%C4%B1-papel-de-parede-hd-boyama-güzel-çiçekler-3d-duvar-ka%C4%9F%C4%B1d%C4%B1-3d-duvar-ka%C4%9F%C4%B1d%C4%B1.jpg")';
 			}
 		}
 		
